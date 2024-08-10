@@ -14,7 +14,3 @@
 5. If you have multiple display, set display index regarding to your main display
 6. Try to replace the screenshot by your own, if reel/cast not detected
 7. This is made by trial and error, so happy experiment :D
-
-
-https://github.com/user-attachments/assets/49ee6cd8-f1f3-4fa9-abc2-e420e5c5a9d7
-
