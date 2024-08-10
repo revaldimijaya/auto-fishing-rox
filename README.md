@@ -3,7 +3,7 @@
 ### Windows Client
 1. Install Python https://www.python.org/downloads/release/python-3119/
 2. Make sure checklist `Add Path to Environment`
-3. Open cmd, run `pip install pyautogui opencv-python screeninfo`
+3. Open terminal, run `pip install pyautogui opencv-python screeninfo`
 4. run `py main.py`
 
 ### Recommended Settings
